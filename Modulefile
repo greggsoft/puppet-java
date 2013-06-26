@@ -1,2 +1,5 @@
 name    'greggsoft-java'
 version '0.1.0'
+author 'Mikhail Menshenin <greggsoft@gmail.com>'
+project_page 'https://github.com/greggsoft/puppet-java'
+description 'Simplest Puppet Java module'
