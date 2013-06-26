@@ -1,2 +1,2 @@
-name    'rafaelfc-java'
-version '1.0.0'
+name    'greggsoft-java'
+version '0.1.0'
